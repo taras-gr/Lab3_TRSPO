@@ -1,0 +1,39 @@
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.exe
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.AssemblyInfoInputs.cache
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.AssemblyInfo.cs
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.deps.json
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.runtimeconfig.json
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.runtimeconfig.dev.json
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.dll
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.pdb
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.csproj.CopyComplete
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.dll
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.pdb
+E:\University\ТРСПО\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.csprojAssemblyReference.cache
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.exe
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.deps.json
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.runtimeconfig.json
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.runtimeconfig.dev.json
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.dll
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.pdb
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.csprojAssemblyReference.cache
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.AssemblyInfoInputs.cache
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.AssemblyInfo.cs
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.csproj.CopyComplete
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.dll
+E:\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.pdb
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.exe
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.deps.json
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.runtimeconfig.json
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.runtimeconfig.dev.json
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.dll
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\Lab2_TRSPO.pdb
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.csprojAssemblyReference.cache
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.AssemblyInfoInputs.cache
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.AssemblyInfo.cs
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.csproj.CopyComplete
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.dll
+D:\Cloud\Google Диск_Політех\University\ТРСПО\Lab2\Lab2_TRSPO\Lab2_TRSPO\obj\Debug\netcoreapp3.1\Lab2_TRSPO.pdb
